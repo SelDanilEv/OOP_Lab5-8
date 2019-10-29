@@ -1,0 +1,7 @@
+E:\Danil\university\OOTPIST\Lab5\Lab5\bin\Debug\Lab5.exe.config
+E:\Danil\university\OOTPIST\Lab5\Lab5\bin\Debug\Lab5.exe
+E:\Danil\university\OOTPIST\Lab5\Lab5\bin\Debug\Lab5.pdb
+E:\Danil\university\OOTPIST\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+E:\Danil\university\OOTPIST\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+E:\Danil\university\OOTPIST\Lab5\Lab5\obj\Debug\Lab5.exe
+E:\Danil\university\OOTPIST\Lab5\Lab5\obj\Debug\Lab5.pdb
